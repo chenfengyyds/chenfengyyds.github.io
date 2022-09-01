@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-01T10:54:57.932Z</updated>
+  <updated>2022-09-01T11:23:07.832Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>暑假结束，开学啦</title>
-    <link href="http://example.com/posts/9520.html"/>
-    <id>http://example.com/posts/9520.html</id>
+    <link href="http://example.com/posts/6a5293.html"/>
+    <id>http://example.com/posts/6a5293.html</id>
     <published>2022-09-01T11:23:03.000Z</published>
-    <updated>2022-09-01T10:54:57.932Z</updated>
+    <updated>2022-09-01T11:23:07.832Z</updated>
     
     <content type="html"><![CDATA[<h1 id="开学"><a href="#开学" class="headerlink" title="开学"></a>开学</h1><blockquote><p>快乐的生活总是短暂的，两个月的暑假转瞬即逝。天气还是那么的热，窗外的知了还在吱吱地叫着，我们也迎来了上学的日子。</p></blockquote><div class="tip home"><p>生活</p></div>]]></content>
     
