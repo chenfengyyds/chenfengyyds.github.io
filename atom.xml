@@ -3,11 +3,11 @@
   <title>辰风</title>
   
   <subtitle>一个有趣的博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://chenfengyyds.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-09-02T19:35:32.742Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://chenfengyyds.github.io/"/>
+  <updated>2022-09-03T04:51:15.668Z</updated>
+  <id>https://chenfengyyds.github.io/</id>
   
   <author>
     <name>辰风chenfeng</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>暑假结束，开学啦</title>
-    <link href="http://example.com/posts/6a5293.html"/>
-    <id>http://example.com/posts/6a5293.html</id>
+    <link href="https://chenfengyyds.github.io/posts/6a5293.html"/>
+    <id>https://chenfengyyds.github.io/posts/6a5293.html</id>
     <published>2022-09-01T19:23:03.000Z</published>
-    <updated>2022-09-02T19:35:32.742Z</updated>
+    <updated>2022-09-03T04:51:15.668Z</updated>
     
     <content type="html"><![CDATA[<h1 id="开学"><a href="#开学" class="headerlink" title="开学"></a>开学</h1><blockquote><p>快乐的生活总是短暂的，两个月的暑假转瞬即逝。天气还是那么的热，窗外的知了还在吱吱地叫着，我也迎来了上学的日子。</p></blockquote><div class="tip home"><p>生活</p></div>]]></content>
     
@@ -34,10 +34,10 @@
     
     
     
-    <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://chenfengyyds.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://chenfengyyds.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
